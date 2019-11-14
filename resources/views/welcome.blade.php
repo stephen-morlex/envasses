@@ -24,7 +24,7 @@
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 6;font-size: 85px; white-space: nowrap;text-transform:left;color: #000;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    Quality Is
+                   Environmental and
                 </div>
 
                 <div class="tp-caption tp-resizeme" id="slide-1-layer-2" data-x="['left','left','left','left']"
@@ -36,8 +36,7 @@
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 6;font-size: 85px; white-space: nowrap;text-transform:left;color: #ffffff;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    The Best
-
+                    &nbsp;
                 </div>
 
                 <div class="tp-caption tp-resizeme" id="slide-1-layer-3" data-x="['left','left','left','left']"
@@ -49,7 +48,7 @@
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 6; white-space: nowrap;text-transform:left;color: #000000;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    Business Plan
+                    socio-economic sustainability
                 </div>
 
                 <div class="tp-caption rev-btn " id="slide-1-layer-4" data-x="['left','left','left','left']"
@@ -73,7 +72,7 @@
                 data-easein="default" data-easeout="default" data-masterspeed="500" data-rotate="0"
                 data-saveperformance="off" data-title="Focus">
 
-                <img src="https://images.unsplash.com/photo-1511132972173-58eebd7409d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+                <img src="https://images.unsplash.com/photo-1566615937396-8f2ef00401d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
                     alt="images" data-lazyload="" data-bgposition="center center" data-bgfit="cover"
                     data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 
@@ -85,8 +84,8 @@
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":750,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;font-size: 85px; white-space: nowrap;text-transform:left;color: #000;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    Make It
+                    style="z-index: 6;font-size: 85px; white-space: nowrap;text-transform:left;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;">
+                   Environmental Protection and
                 </div>
 
                 <div class="tp-caption tp-resizeme" id="slide-2-layer-2" data-x="['left','left','left','left']"
@@ -98,7 +97,7 @@
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 6;font-size: 85px; white-space: nowrap;text-transform:left;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    Happen
+                    &nbsp;
 
                 </div>
 
@@ -111,8 +110,8 @@
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6; white-space: nowrap;text-transform:left;color: #000000;font-family: 'Montserrat', sans-serif;font-weight: 700;">
-                    Shock Everyone
+                    style="z-index: 6; white-space: nowrap;text-transform:left;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;">
+                    Conservation through Partnerships
                 </div>
 
                 <div class="tp-caption rev-btn " id="slide-2-layer-4" data-x="['left','left','left','left']"
@@ -569,18 +568,18 @@
     <div class="our_service_section">
         <div class="container">
             <div class="row">
-                <div class="section_title text-center">
+                <div class="section_title text-center" data-aos="fade-up" data-aos-duration="3000">
                     <h2>Six Area of focus</h2>
                 </div>
             </div>
             <!--row -->
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12" data-aos="fade-left" data-aos-duration="3000">
                     <div class="our_service_carousel_active owl-carousel">
                         <div class="item single_service_item_div ">
                             <div class="single_service_content para_default">
-                                <h3><a href="service-details-page-03.html">Environmental and socio-economic sustainability </a></h3>  
+                                <h3><a href="service-details-page-03.html">Environmental and socio-economic sustainability </a></h3>
                             </div>
                         </div>
                         <!--item -->
@@ -614,10 +613,10 @@
                         <!--item -->
 
                         <div class="item single_service_item_div ">
-                           
+
                             <div class="single_service_content para_default">
                                 <h3><a href="service-details-page-04.html">Environmental Protection and Conservation through Partnerships </a></h3>
-                               
+
                             </div>
                         </div>
                         <!--item -->
