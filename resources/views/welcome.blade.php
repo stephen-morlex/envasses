@@ -665,36 +665,41 @@
     </div><!-- container-->
 </div><!-- latest_blog_section_area-->
 
-
 <div class="partners_Section_area text-center">
     <div class="container">
+         <div class="row pb-2">
+                <div class="section_title text-center " data-aos="fade-down" data-aos-duration="3000">
+                    <h2>Our key clients</h2>
+                </div>
+            </div>
+            <!--row -->
         <div class="row">
             <div class="col-md-12">
                 <div class="single_a_me_list owl-carousel">
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Brand%20Logos/Old_Nike_logo.jpg?width=222&name=Old_Nike_logo.jpg"></a>
+                                src="https://kpa.co.ke/Style%20Library/KPABranding/images/new-kenya-logo1.png"></a>
                     </div>
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Blog_pics/340px-Apple_logo_black.svg.png?width=181&name=340px-Apple_logo_black.svg.png"></a>
+                                src="http://www.nema.go.ke/templates/nema/images/logo1.jpg"></a>
                     </div>
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Brand%20Logos/3M.png?width=223&name=3M.png"></a>
+                                src="https://www.mombasawater.co.ke/images/logo.png"></a>
                     </div>
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Brand%20Logos/Nasa.png?width=249&name=Nasa.png"></a>
+                                src="https://kma.go.ke/images/top/KENYA-MARITIME-AUTHORITY-LOGO.png"></a>
                     </div>
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Brand%20Logos/NationalGeographic.png?width=381&name=NationalGeographic.png"></a>
+                                src="http://en.ccccltd.cn/images/logo.jpg"></a>
 
                     </div>
                     <div class="single_partners_logo">
                         <a href="#"><img alt="images"
-                                src="https://www.bluleadz.com/hs-fs/hubfs/Brand%20Logos/WaltDisney.png?width=309&name=WaltDisney.png"></a>
+                                src="https://d1diae5goewto1.cloudfront.net/_skins/capetown/img/footer-logo.png"></a>
                     </div>
                 </div>
             </div>

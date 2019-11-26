@@ -21,11 +21,11 @@
 
         <div class="container">
             <div class="navbar-header flex-it">
-                <div class="navbar-brand align-left">
+                <div class="navbar-brand align-left"  data-aos="fade-right" data-aos-duration="3000">
                     <a href="/"><img alt="images" src="{{ asset('images/envases.gif') }}"></a>
                 </div>
 
-                <div class="align-right text-right">
+                <div class="align-right text-right"  data-aos="fade-left" data-aos-duration="2500">
                     <ul class="icon-list list-inline mb-0">
                         <li class="text-left">
                             <div class="feature feature-xs">
@@ -67,7 +67,8 @@
                                 @empty
                                 <li><a href="#">Oops sorry!</a></li>
                                 @endforelse
-
+                                  <li><a href="{{ route('team.index') }}">Our Team</a></li>
+                                  <li><a href="{{ route('client.index') }}">Our Clients</a></li>
                             </ul>
 
                         </li>

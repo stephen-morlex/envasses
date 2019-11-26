@@ -17,6 +17,8 @@ Route::get('/', function () {
 
 Auth::routes();
 Route::get('/about', 'AboutController@index')->name('about.index');
+Route::get('/teams', 'TeamController@index')->name('team.index');
+Route::get('/Clients', 'ClientController@index')->name('client.index');
 Route::get('/about/{About}', 'AboutController@show')->name('about.show');
 Route::get('/services', 'ServiceController@index')->name('services.index');
 Route::get('/services/{Service}', 'ServiceController@show')->name('services.show');

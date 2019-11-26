@@ -1,19 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-{{--  <div class="page_title_banner banner_blog_single_title_bg">
-    <div class="page_title_banner_overlay"></div>
-    <div class="container">
-        <div class="page_title_banner_text text-center">
-            <h2>{{ $project->title }}</h2>
-            <ul class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li><a class="active" href="{{ route('projects.index') }}">Projects</a></li>
-            </ul>
-        </div>
-    </div>
-    <!--container-->
-</div><!-- page_title_banner -->  --}}
 
 <div class="blog_page_area">
     <div class="container">
@@ -36,7 +23,7 @@
                 <div class="blog_right_side_area">
                     <div class="blog_right_widget">
                         <div class="blog_widget">
-                            <h3 class="blog_widget_title">Other projects</h3>
+                            <h3 class="blog_widget_title">Other Projects</h3>
                             <ul>
 
                                 @forelse ($projectsHome as $item)

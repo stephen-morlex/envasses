@@ -14,7 +14,7 @@
     <!-- google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     <!-- favicon -->
-    <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('images/envases.gif') }}" type="image/x-icon">
 
     <!--flaticon.css-->
     <link rel="stylesheet" href="{{ asset('assets/css/flaticon.css') }}">

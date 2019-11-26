@@ -287,6 +287,155 @@ h6.mb-0 {
     color: #4d4d4d;
 }
 
+/* Our Team */
+.heading-title {
+    margin-bottom: 100px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.heading-title h3 {
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+.p-top-30 {
+    padding-top: 30px;
+}
+
+.half-txt {
+    width: 60%;
+    margin: 0 auto;
+    display: inline-block;
+    line-height: 25px;
+    color: #7e7e7e;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.team-member,
+.team-member .team-img {
+    position: relative;
+}
+
+.team-member {
+    overflow: hidden;
+}
+
+.team-member,
+.team-member .team-img {
+    position: relative;
+}
+
+.team-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    border: 20px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.90);
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.team-member:hover .team-hover .desk {
+    top: 65%;
+}
+
+.team-member:hover .team-hover,
+.team-member:hover .team-hover .desk,
+.team-member:hover .team-hover .s-link {
+    opacity: 1;
+}
+
+.team-hover .desk {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    opacity: 0;
+    -webkit-transform: translateY(-55%);
+    -ms-transform: translateY(-55%);
+    transform: translateY(-55%);
+    -webkit-transition: all 0.3s 0.2s;
+    transition: all 0.3s 0.2s;
+    padding: 0 20px;
+}
+
+.desk,
+.desk h4,
+.team-hover .s-link a {
+    text-align: center;
+    color: #499514;
+}
+
+.team-member:hover .team-hover .s-link {
+    bottom: 10%;
+}
+
+.team-member:hover .team-hover,
+.team-member:hover .team-hover .desk,
+.team-member:hover .team-hover .s-link {
+    opacity: 1;
+}
+
+.team-hover .s-link {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    opacity: 0;
+    text-align: center;
+    -webkit-transform: translateY(45%);
+    -ms-transform: translateY(45%);
+    transform: translateY(45%);
+    -webkit-transition: all 0.3s 0.2s;
+    transition: all 0.3s 0.2s;
+    font-size: 35px;
+}
+
+.desk,
+.desk h4,
+.team-hover .s-link a {
+    text-align: center;
+    color: #499514;
+
+}
+
+.team-member .s-link a {
+    margin: 0 10px;
+    color: #333;
+    font-size: 16px;
+}
+
+.team-title {
+    position: static;
+    padding: 20px 0;
+    display: inline-block;
+    letter-spacing: 2px;
+    width: 100%;
+}
+
+.team-title h5 {
+    margin-bottom: 0px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.team-title span {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #a5a5a5;
+    letter-spacing: 1px;
+}
+
+/* End of Our Team */
 /*our service*/
 
 .single_service_item_div i {
@@ -309,17 +458,19 @@ h6.mb-0 {
 
 .single_service_content {
     background-color: #fff;
-    padding:2rem;
-    display:flex;
-    height:90px;
-    align-items:center;
-    justify-items:center;
+    padding: 2rem;
+    display: flex;
+    height: 90px;
+    align-items: center;
+    justify-items: center;
     border-radius: 5px;
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
 }
 
 .single_service_content:hover {
-   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    transition: 0.5s ease-in;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
 }
 
 .our_service_section {
@@ -329,7 +480,7 @@ h6.mb-0 {
 }
 
 .single_service_item_div {
-  padding-bottom:18px;
+    padding-bottom: 18px;
 }
 
 .our_service_carousel_active {
@@ -685,7 +836,7 @@ h6.mb-0 {
 /*latest blog*/
 
 .latest_blog_section_area {
-    background: url("/images/partner.jpg") no-repeat fixed;
+    background: url("/images/ocean.jpg") no-repeat fixed;
     object-fit: cover;
     padding: 90px 0px 65px;
     color: #fff;
